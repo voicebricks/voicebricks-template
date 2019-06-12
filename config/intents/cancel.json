@@ -1,0 +1,16 @@
+{
+  "name": "Cancel",
+  "samples": [
+    "Cancel",
+    "Go away",
+    "Bye",
+    "Goodbye",
+    "Exit"
+  ],
+  "google": {
+    "event": "actions_intent_CANCEL"
+  },
+  "alexa": {
+    "name": "AMAZON.CancelIntent"
+  }
+}

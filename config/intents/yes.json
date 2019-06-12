@@ -1,0 +1,13 @@
+{
+  "name": "Yes",
+  "samples": [
+    "yes",
+    "Yeah",
+    "Okay",
+    "Sure",
+    "Yup"
+  ],
+  "alexa": {
+    "name": "AMAZON.YesIntent"
+  }
+}

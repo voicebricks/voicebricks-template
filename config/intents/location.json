@@ -1,0 +1,9 @@
+{
+  "name": "Location",
+  "samples": [
+    "Where are you (located|)",
+    "What('s| is) your address",
+    "address",
+    "location"
+  ]
+}

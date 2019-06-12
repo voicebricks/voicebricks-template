@@ -1,0 +1,16 @@
+{
+  "name": "Repeat",
+  "samples": [
+    "repeat",
+    "Can you say that again",
+    "What was that",
+    "pardon",
+    "repeat that",
+    "repeat that please",
+    "say that again",
+    "say again"
+  ],
+  "alexa": {
+    "name": "AMAZON.RepeatIntent"
+  }
+}

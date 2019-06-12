@@ -1,0 +1,6 @@
+{
+  "google": {
+    "name": "NoInput",
+    "event": "actions_intent_NO_INPUT"
+  }
+}

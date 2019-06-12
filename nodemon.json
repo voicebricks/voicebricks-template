@@ -1,0 +1,4 @@
+{
+  "verbose": true,
+  "watch": ["handlers/*", "helpers/*", "data/*", "node_modules/@voicebricks/*"]
+}

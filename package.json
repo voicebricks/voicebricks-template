@@ -1,0 +1,22 @@
+{
+  "name": "voicebricks",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "set DEBUG=app:* & nodemon --inspect ./bin/www",
+    "start": "node ./bin/www",
+    "generate": "node node_modules/@voicebricks/voicebricks-bot-framework/generator"
+  },
+  "dependencies": {
+    "@voicebricks/voicebricks-bot-framework": "~0.1.6",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "dotenv": "^6.1.0",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "mongodb": "^3.1.4",
+    "morgan": "~1.9.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}

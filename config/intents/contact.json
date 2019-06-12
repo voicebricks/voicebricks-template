@@ -1,0 +1,8 @@
+{
+  "name": "Contact",
+  "samples": [
+    "((tell me|what('s| is)|) your|) contact (information|info|)",
+    "How do I contact you",
+    "Get in touch"
+  ]
+}

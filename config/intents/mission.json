@@ -1,0 +1,6 @@
+{
+  "name": "Mission",
+  "samples": [
+    "((tell me|what('s| is)) your|) mission (statement|)"
+  ]
+}

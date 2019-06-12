@@ -1,0 +1,6 @@
+.idea
+node_modules
+exports/alexa
+exports/google
+ngrok_start.bat
+now.json

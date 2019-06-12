@@ -1,0 +1,15 @@
+{
+  "name": "Help",
+  "samples": [
+    "What can I do",
+    "What can you do",
+    "Help",
+    "What are my options",
+    "What are the options",
+    "Can you help me",
+    "What should I do"
+  ],
+  "alexa": {
+    "name": "AMAZON.HelpIntent"
+  }
+}

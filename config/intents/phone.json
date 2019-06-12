@@ -1,0 +1,9 @@
+{
+  "name": "Phone",
+  "samples": [
+    "What('s| is) your phone number",
+    "(for|) (their|the) (contact|) phone number",
+    "phone",
+    "(how do|can) I call you"
+  ]
+}

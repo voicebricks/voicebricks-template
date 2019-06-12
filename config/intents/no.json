@@ -1,0 +1,11 @@
+{
+  "name": "No",
+  "samples": [
+    "no",
+    "nup",
+    "nope"
+  ],
+  "alexa": {
+    "name": "AMAZON.NoIntent"
+  }
+}

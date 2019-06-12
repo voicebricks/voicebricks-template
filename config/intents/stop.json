@@ -1,0 +1,9 @@
+{
+  "name": "Stop",
+  "samples": [
+    "Stop"
+  ],
+  "alexa": {
+    "name": "AMAZON.StopIntent"
+  }
+}
