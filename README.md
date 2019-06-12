@@ -12,7 +12,7 @@ Get your voice app started with this template:
 9. In the console, run `npm run generate`. This will upload the intents and entity definitions and begin training the DialogFlow agent. 
 10. Copy the contents of `exports/alexa/alexa.json` to the JSON editor in the Alexa skill builder and start the build manually.
 
-If you don't remove all the usages of `session.messages` you will need to 
+If you don't remove all the usages of `this.message` you will need to 
   * add a document to the `apps` collection with the following schema:
       name: string
       skillId: string (taken from the Alexa development console)
